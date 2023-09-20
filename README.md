@@ -1,5 +1,5 @@
 
-# Test Problem Solfing
+# Test Problem Solving
 
 Repo ini dibuat untuk bertujuan untuk test penyelesaian masalah
 yaitu
